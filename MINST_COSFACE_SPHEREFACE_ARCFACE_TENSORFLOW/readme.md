@@ -1,7 +1,7 @@
-包含用CosFace、SphereFace以及ArcFace的Loss函数训练MINST数据集的代码，顺便对TensorFlow练练手
+# CosFace、SphereFace以及ArcFace的demo，做MINST数据集的分类。
+## 环境是TensorFlow 2.8.0, 输出两维并画在二维图上方便理解模型。
 
-环境是TensorFlow 2.8.0
-
+文件是jupyter notebook, tensorflow版本是2.8.0
 
 ```python
 # TensorFlow and tf.keras
