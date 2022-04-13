@@ -439,7 +439,7 @@ np.random.seed(1)
 tf.random.set_seed(1)
 
 # 定义使用的层
-custom_layer = custom_layer_cosface(10)
+custom_layer = custom_layer_arcface(10)
 
 # Create an instance of the model
 model = MyModel()
